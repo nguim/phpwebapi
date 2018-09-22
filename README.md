@@ -1,5 +1,7 @@
 # phpwebapi
 
+$ php phpwebapi.php
+
 <?php
 $curl = curl_init();
 
