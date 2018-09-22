@@ -53,19 +53,19 @@ echo $json['items'][0]['timestamp'];
 <?php 
 echo $json['items'][0]['readings']['pm25_one_hourly']['west']; 
 ?>
-<br />East: 26
+<br />East: 
 <?php 
 echo $json['items'][0]['readings']['pm25_one_hourly']['east']; 
 ?>
-<br />Central: 21
+<br />Central: 
 <?php 
 echo $json['items'][0]['readings']['pm25_one_hourly']['central']; 
 ?>
-<br />South: 21
+<br />South: 
 <?php 
 echo $json['items'][0]['readings']['pm25_one_hourly']['south']; 
 ?>
-<br />North: 14
+<br />North: 
 <?php 
 echo $json['items'][0]['readings']['pm25_one_hourly']['north']; 
 ?>
